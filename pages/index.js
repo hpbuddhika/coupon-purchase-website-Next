@@ -19,7 +19,7 @@ const Home = (props) => {
           <div className="home-hero section-container">
             <div className="home-max-width max-content-container">
               <div className="home-heading-container">
-                <h1 className="home-text heading1">Gogo</h1>
+                <h1 className="home-text heading1">Gogo yyyyy</h1>
                 <span className="home-text01">
                   <span>
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
